@@ -1,2 +1,2 @@
 # ArchaicAdaptationAdmixture
-Code to reproduce figures in our archaic adaptation and admixture paper
+Code to reproduce data in our archaic adaptation and admixture paper
